@@ -1,2 +1,1 @@
-# SPACE 🚀
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![main logo](https://github.com/Nanobyte-org/.github/blob/main/Assets/Group-13.png)
